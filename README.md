@@ -33,4 +33,3 @@ npm run dev
 
 [dnd-kit Multi](https://codesandbox.io/s/dnd-kit-multi-containers-lknfe)  
 [dnd-kit Sortable](https://codesandbox.io/s/dnd-kit-sortable-example-yhwz3f)
->>>>>>> frag/main
